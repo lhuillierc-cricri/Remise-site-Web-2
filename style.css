@@ -1,0 +1,58 @@
+#grad1 {
+    height:100px;
+    background-color: beige;
+    background-image: linear-gradient(to bottom, beige, white);
+    }
+.container {
+    display: flex;
+    }
+
+
+img {
+    margin-left: 20px;
+    clip-path: circle(70%);
+    }
+body {
+  margin: 0;
+  padding: 0;
+    }
+
+h1, p {
+  margin: 20px;
+    }
+
+h1 {
+    text-align: center;
+    }
+   
+p  {
+    font-size: 20px; 
+    } 
+
+ul { 
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+    background-color: #234567;
+    }
+
+ul li {
+    float: left;
+    }
+
+ul li a { 
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 100px;
+    text-decoration: none;
+    }
+
+ul li a:hover {
+    background-color:#F54927;
+    }
+
+p1  {
+    margin-left: 20px
+     } 
